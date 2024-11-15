@@ -9,6 +9,3 @@ Update Contact: Enable users to update contact details.
 Delete Contact: Provide an option to delete a contact.
 
 User Interface: Design a user-friendly interface for easy interaction.
-
-Internship Project at Codsoft 
-BATCH - SEPTEMBER-A74
